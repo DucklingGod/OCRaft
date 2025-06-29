@@ -1,0 +1,17 @@
+# Core OCR and PDF dependencies
+pillow
+pdf2image
+requests
+opencv-python
+numpy
+PyMuPDF
+beautifulsoup4
+
+typhoon-ocr
+transformers
+torch
+PyQt5
+openai
+notebook
+openpyxl
+virtualenv

@@ -1,0 +1,5 @@
+Endpoint: https://api.opentyphoon.ai/v1
+Headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer sk-4IXy2viwPZnoAYVuYELYsFRkqNERSz5XFUNkmgQ3G1B4Miw6'}
+Payload keys: ['images', 'regions', 'ocr_task_type', 'language']
+OCR Task Type: structure
+Language: English

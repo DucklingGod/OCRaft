@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model cache (optional, user sets HF_HOME)
+.huggingface/
+.cache/
+
+# Jupyter and notebook outputs
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Poppler binaries (do not version control large binaries)
+poppler/Library/
+poppler/include/
+poppler/lib/
+poppler/share/
+
+# User/API keys and secrets
+*.key
+*.pem
+*.env
+*.secret
+
+# Debug and export outputs
+debug export/
+test_output/
+
+# Excel and temp files
+*.xlsx
+*.xls
+*.tmp
+*.log
+
+# System files
+~$*
